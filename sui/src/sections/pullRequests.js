@@ -10,7 +10,7 @@ export default function PullRequests() {
       <div className="chart">
         <h3>
           <img
-            src="../../../dist/images/GitHub.png"
+            src="../dist/images/GitHub.png"
             alt="github"
           />
           <div>

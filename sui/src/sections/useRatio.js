@@ -5,7 +5,7 @@ export default function UseRatio() {
     <>
       <h3>
         <img
-          src="../../../dist/images/sui-logo.png"
+          src="../dist/images/sui-logo.png"
           alt="SUI Logo"
         />
         <div>

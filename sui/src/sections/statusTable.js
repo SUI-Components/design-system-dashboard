@@ -125,63 +125,63 @@ export default function StatusTable() {
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/ij.png"
+                  src="../dist/images/ij.png"
                   alt="InfoJobs Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/ma.png"
+                  src="../dist/images/ma.png"
                   alt="Milanuncios Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/cn.png"
+                  src="../dist/images/cn.png"
                   alt="Coches.net Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/cf.png"
+                  src="../dist/images/cf.png"
                   alt="CarFactory Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/ep.png"
+                  src="../dist/images/ep.png"
                   alt="ePreselec Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/fc.png"
+                  src="../dist/images/fc.png"
                   alt="Fotocasa Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/ot.png"
+                  src="../dist/images/ot.png"
                   alt="OneTool Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/hb.png"
+                  src="../dist/images/hb.png"
                   alt="habitaclia Logo"
                 />
               </th>
               <th>
                 <img
                   className="brand-logo"
-                  src="../../../dist/images/adit.png"
+                  src="../dist/images/adit.png"
                   alt="Advertising Logo"
                 />
               </th>

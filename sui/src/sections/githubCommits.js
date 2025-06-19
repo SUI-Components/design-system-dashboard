@@ -10,7 +10,7 @@ export default function GithubCommits() {
       <div className="chart" id="total-commits">
         <h3>
           <img
-            src="../../../dist/images/GitHub.png"
+            src="../dist/images/GitHub.png"
             alt="github"
           />
           <div>
