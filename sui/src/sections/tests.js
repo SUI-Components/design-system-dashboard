@@ -10,7 +10,7 @@ export default function ChartsSection() {
       <div className="chart">
         <h3>
           <img
-            src="/scmspain/design-systems/dist/images/tests.png"
+            src="../../../dist/images/tests.png"
             alt="tests"
           />
           <div>
@@ -35,7 +35,7 @@ export default function ChartsSection() {
       <div className="chart">
         <h3>
           <img
-            src="/scmspain/design-systems/dist/images/tests.png"
+            src="../../../dist/images/tests.png"
             alt="tests"
           />
           <div>

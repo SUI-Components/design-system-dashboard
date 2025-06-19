@@ -5,7 +5,7 @@ export default function UseRatio() {
     <>
       <h3>
         <img
-          src="/scmspain/design-systems/dist/images/sui-logo.png"
+          src="../../../dist/images/sui-logo.png"
           alt="SUI Logo"
         />
         <div>
@@ -31,7 +31,7 @@ export default function UseRatio() {
           <div>USES</div>
         </div>
         <div className="number-of-uses ratio-this-month">
-          69% 
+          69%
           <div>June 2025</div>
         </div>
       </div>

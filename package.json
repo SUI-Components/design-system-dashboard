@@ -1,4 +1,4 @@
-{
+  {
   "name": "design-systems",
   "version": "3.0.0",
   "scripts": {
@@ -19,9 +19,9 @@
     "path": "^0.12.7",
     "sass": "^1.32.13",
     "sass-loader": "^10.2.0",
-    "webpack": "^4.46.0",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.2"
+    "webpack": "^5.99.9",
+    "webpack-cli": "5.1.4",
+    "webpack-dev-server": "5.2.2"
   },
   "eslintConfig": {
     "extends": [

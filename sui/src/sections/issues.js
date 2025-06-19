@@ -10,7 +10,7 @@ export default function Issues() {
       <div className="chart" id="issues">
         <h3>
           <img
-            src="/scmspain/design-systems/dist/images/GitHub.png"
+            src="../../../dist/images/GitHub.png"
             alt="github"
           />
           <div>

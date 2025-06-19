@@ -10,7 +10,7 @@ export default function GithubBreakdown() {
       <div className="chart" id="commits-breakdown">
         <h3>
           <img
-            src="/scmspain/design-systems/dist/images/GitHub.png"
+            src="../../../dist/images/GitHub.png"
             alt="github"
           />
           <div>
