@@ -1,0 +1,190 @@
+/* SUI COMPONENTS */
+
+/* Atoms */
+.sui-AtomActionButton,
+.sui-AtomBackToTop,
+.sui-AtomBadge,
+.sui-AtomButton,
+.sui-AtomCheckbox,
+.sui-AtomHelpText,
+.sui-AtomIcon,
+.sui-AtomInput,
+.sui-AtomInput-input,
+.sui-AtomLabel,
+.sui-atom-panel,
+.sui-PinInput,
+.sui-AtomPopover,
+.sui-AtomProgressBarV2,
+.sui-AtomRadioButton,
+.sui-AtomSkeleton,
+.sui-AtomSlider,
+.sui-AtomSpinner,
+.sui-AtomSwitch,
+.react-AtomTable,
+.sui-AtomTag,
+.sui-AtomTextarea,
+.sui-AtomToast,
+.sui-AtomTooltip,
+.sui-AtomUpload,
+.sui-AtomValidationText,
+.sui-MoleculeAccordionItem,
+.sui-MoleculeAccordionItemPanelContent
+{
+    outline: 1px solid rgba(255,20,145,1);
+    background-color: rgba(255,20,145,0.1);
+    color: rgba(255,20,145,1);
+}
+
+/* Images */
+.sui-AtomImage, .sui-MoleculeThumbnail{
+    content: url(https://5.imimg.com/data5/LZ/EN/GC/SELLER-2390141/rose-pink-food-color-500x500.jpg);
+    opacity: 0.3;
+}
+
+/* Grid */
+.sui-LayoutGrid{
+    outline: 1px dashed rgba(255,20,145,1);
+}
+
+/* Molecules */
+.sui-MoleculeAccordion,
+.sui-MoleculeAutosuggest,
+.sui-MoleculeAutosuggestField,
+.sui-MoleculeAvatar,
+.sui-AtomCard,
+.sui-MoleculeBadgeCounter,
+.sui-BreadcrumbBasic,
+.sui-MoleculeButtonGroup,
+.sui-MoleculeButtonGroupField,
+.sui-MoleculeCheckboxField,
+.sui-MoleculeCollapsible,
+.sui-MoleculeDataCounter,
+.sui-MoleculeDrawer,
+.sui-MoleculeDropdownList,
+.sui-MoleculeDropdownOption,
+.sui-MoleculeField,
+.sui-MoleculeImageEditor,
+.sui-MoleculeInputField,
+.sui-MoleculeModal,
+.sui-MoleculeModal-dialog,
+.sui-MoleculeNotification,
+.sui-MoleculePagination,
+.sui-MoleculePhotoUploader,
+.sui-MoleculeProgressSteps,
+.sui-MoleculeQuickAction,
+.sui-MoleculeRadioButtonField,
+.sui-MoleculeRadioButtonGroup,
+.sui-MoleculeRating,
+.sui-MoleculeSelect,
+.sui-MoleculeSelectField,
+.sui-MoleculeSelectPopover,
+.sui-MoleculeStepper,
+.sui-MoleculeTabs,
+.sui-MoleculeSelectField,
+.sui-MoleculeThumbnail,
+.sui-MoleculeValidationCode{
+    outline: 2px solid rgba(255,20,145,1);
+    /* background-color: rgba(255,20,145,0); */
+}
+
+/* Organisms */
+.sui-OrganismNestedCheckboxes{
+    outline: 1px solid rgba(255,20,145,1);
+    background-color: rgba(255,20,145,0.1);
+    color: rgba(255,20,145,1);
+}
+
+/* Para Coches, Infojobs */
+.mt-ListAds>div{
+  overflow: visible;
+}
+.ij-ContentSearch-list{
+  overflow: visible;
+}
+/* Adevinta Components */
+.sui-AdSmartbanner,
+.sui-AlertBasic,
+.sui-BadgeCounter,
+.sui-AtomStatusSpot,
+.sui-ButtonBasic,
+.sui-ButtonShare,
+.sui-CardArrow,
+.sui-CardArticle,
+.sui-CardBasic,
+.sui-CardCollapsible,
+.sui-CardComposable,
+.sui-CardImageCover,
+.sui-CardProduct,
+.sui-CardProfile,
+.sui-CardSubscription,
+.sui-CollapsibleBasic,
+.sui-CollapsibleComposed,
+.sui-CollapsibleReadmore,
+.sui-CookieBanner,
+.sui-CoverBasic,
+.sui-DropdownBasic,
+.sui-DropdownUser,
+.sui-FormAutocompleted,
+.sui-FormCheckbox,
+.sui-FormCheckboxesWithParent,
+.sui-FormCheckboxList,
+.sui-FormPta,
+.sui-FormRadioList,
+.sui-FormRangeDatepicker,
+.sui-FormSelect,
+.sui-FormTextarea,
+.sui-FormTextInput,
+.sui-HeaderActions,
+.sui-HeaderFocus,
+.sui-ImageLazyLoad,
+.sui-ImagePicker,
+.sui-ImagePlaceholder,
+.sui-ImageSlider,
+.sui-InputCopy,
+.sui-LayoutBreakpointSplit,
+.sui-LinkBasic,
+.sui-ListBullet,
+.sui-ListImage,
+.sui-ListLink,
+.sui-ListMasonry,
+.sui-MapBasic,
+.sui-ModalBasic,
+.sui-ModalGallery,
+.sui-PaginationBasic,
+.sui-RatingIcons,
+.sui-SectionBasic,
+.sui-SectionInfo,
+.sui-ShareSocialMediaButtonsGroup,
+.sui-SpinnerBasic,
+.sui-StickyContent,
+.sui-TabBasic,
+.sui-TabContent,
+.sui-TableBasic,
+.sui-TagChip,
+.sui-TagSelectable,
+.sui-TagSelectableList,
+.sui-ThumbnailBasic,
+.sui-ThumbnailList,
+.sui-TitleBasic,
+.sui-TitleMultisize,
+.sui-TooltipBasic,
+.sui-Topbarmenu,
+.sui-Topbarmenu-left,
+.sui-Topbarmenu-right,
+.sui-TopbarUser{
+    outline: 1px solid rgb(10, 174, 5);
+    background-color: rgba(10, 174, 5,0.1);
+    color: rgba(10, 174, 5,1);
+}
+.sui-MapGoogle-Container{
+    border: 3px solid rgb(10, 174, 5);
+}
+.sui-FormBuilder-MultiButton,
+.sui-FormBuilder-DefaultRange,
+.sui-FormBuilder-field,
+.sui-FormBuilder-fieldSet,
+.sui-FormBuilder{
+    outline: 1px solid rgb(0, 102, 243);
+    background-color: rgba(0, 102, 243,0.1);
+    color: rgba(0, 102, 243,1);
+}

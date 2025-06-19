@@ -1,0 +1,100 @@
+import {ChartColors, howLongInThePastMonths} from './globalDefinitions.js'
+
+const discussionCreated = [
+  // https://github.com/SUI-Components/sui-components/discussions/categories/ideas-and-new-features?discussions_q=category%3A%22Ideas+and+new+features%22+created%3A2022-11-01..2022-11-30
+  null /* January 2020 */,
+  null /* February 2020 */,
+  null /* March 2020 */,
+  null /* April 2020 */,
+  null /* May 2020 */,
+  null /* June 2020 */,
+  null /* July 2020 */,
+  null /* August 2020 */,
+  null /* September 2020 */,
+  null /* October 2020 */,
+  null /* November 2020 */,
+  null /* December 2020 */,
+  null /* January 2020 */,
+  null /* February 2021 */,
+  null /* March 2021 */,
+  0 /* April 2021 */,
+  8 /* May 2021 */,
+  19 /* June 2021 */,
+  20 /* July 2021 */,
+  21 /* August 2021 */,
+  23 /* September 2021 */,
+  23 /* October 2021 */,
+  24 /* November 2021 */,
+  24 /* December 2021 */,
+  25 /* January 2022 */,
+  25 /* February 2022 */,
+  29 /* March 2022 */,
+  31 /* April 2022 */,
+  31 /* May 2022 */,
+  33 /* June 2022 */,
+  33 /* July 2022 */,
+  34 /* August 2022 */,
+  34 /* September 2022 */,
+  34 /* October 2022 */,
+  35 /* November 2022 */,
+  35 /* December 2022 */
+].slice(howLongInThePastMonths)
+//
+const discussionDone = [
+  // https://github.com/SUI-Components/sui-components/discussions?discussions_q=label%3ADONE
+  null /* January 2020 */,
+  null /* February 2020 */,
+  null /* March 2020 */,
+  null /* April 2020 */,
+  null /* May 2020 */,
+  null /* June 2020 */,
+  null /* July 2020 */,
+  null /* August 2020 */,
+  null /* September 2020 */,
+  null /* October 2020 */,
+  null /* November 2020 */,
+  null /* December 2020 */,
+  null /* January 2020 */,
+  null /* February 2021 */,
+  null /* March 2021 */,
+  null /* April 2021 */,
+  null /* May 2021 */,
+  2 /* June 2021 */,
+  3 /* July 2021 */,
+  3 /* August 2021 */,
+  4 /* September 2021 */,
+  8 /* October 2021 */,
+  8 /* November 2021 */,
+  8 /* December 2021 */,
+  8 /* January 2022 */,
+  9 /* February 2022 */,
+  10 /* March 2022 */,
+  11 /* April 2022 */,
+  12 /* May 2022 */,
+  12 /* June 2022 */,
+  12 /* July 2022 */,
+  12 /* August 2022 */,
+  12 /* September 2022 */,
+  19 /* October 2022 */,
+  19 /* November 2022 */,
+  19 /* December 2022 */
+].slice(howLongInThePastMonths)
+
+export const discussions = [
+  {
+    label: 'Total',
+    data: discussionCreated,
+    backgroundColor: ChartColors.white,
+    borderColor: ChartColors.white,
+    fill: false,
+    lineTension: 0
+  },
+  {
+    label: 'Done',
+    data: discussionDone,
+    backgroundColor: ChartColors.green,
+    borderColor: ChartColors.green,
+    fill: false,
+    lineTension: 0
+  }
+]

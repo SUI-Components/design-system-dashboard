@@ -1,0 +1,45 @@
+{
+  "name": "design-systems",
+  "version": "3.0.0",
+  "scripts": {
+    "lint": "npm run lint:js && npm run lint:sass",
+    "lint:js": "sui-lint js",
+    "lint:sass": "sui-lint sass --fix",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/preset-env": "^7.14.2",
+    "@s-ui/lint": "^4.6.0",
+    "@s-ui/mono": "2",
+    "babel-loader": "^8.2.1",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "path": "^0.12.7",
+    "sass": "^1.32.13",
+    "sass-loader": "^10.2.0",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/@s-ui/lint/eslintrc.js"
+    ]
+  },
+  "prettier": "./node_modules/@s-ui/lint/.prettierrc.js",
+  "stylelint": {
+    "extends": "./node_modules/@s-ui/lint/stylelint.config.js"
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.13.13",
+    "chart.js": "^2.9.4",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^2.11.2",
+    "react-dom": "^17.0.2",
+    "style-loader": "^2.0.0",
+    "stylelint": "^13.13.1"
+  }
+}

@@ -1,0 +1,32 @@
+# project
+public/
+.sui/
+
+# environment
+.env
+
+# OS
+.DS_Store
+
+# server
+.tern-port
+
+# IDEs
+.vscode/
+.idea
+
+# framework
+.vercel
+
+# language
+node_modules/
+lib/
+*/**/lib/
+npm-debug.log
+components/**/**/themes
+*/**/package-lock.json
+
+# coverage
+coverage/
+.coverage/
+.vim
