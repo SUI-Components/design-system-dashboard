@@ -291,7 +291,7 @@
       "@s-ui/react-molecule-input-field@4",
       "@s-ui/react-molecule-input-tags@3",
       "@s-ui/react-molecule-modal@1 – outdated",
-      "/var/folders/tt/p4tn__1j3kl673ch3394ncb80000gq/T/1749765525682/frontend-mt--web-app/node_modules/@s-ui/react-molecule-modal-v2",
+      "/var/folders/tt/p4tn__1j3kl673ch3394ncb80000gq/T/1750368754604/frontend-mt--web-app/node_modules/@s-ui/react-molecule-modal-v2",
       "@s-ui/react-molecule-notification@1",
       "@s-ui/react-molecule-pagination@2",
       "@s-ui/react-molecule-photo-uploader@2",
@@ -523,6 +523,7 @@
       "@s-ui/react-primitive-visually-hidden@1"
     ],
     "frontend-ij--web-app": [
+      "@s-ui/react-atom-action-button@1",
       "@s-ui/react-atom-badge@2",
       "@s-ui/react-atom-button@1 – outdated",
       "@s-ui/react-atom-card@1",
@@ -720,6 +721,7 @@
       "/frontend-cf--web-app – v1.11.0",
       "/frontend-mt--web-app – v1.11.0",
       "/frontend-fc--web-server – v1.11.0",
+      "/frontend-ij--web-app – v1.11.0",
       "/frontend-re--ut-web-app – v1.11.0",
       "/frontend-adit--uilib-genos – v1.11.0"
     ],
@@ -1635,7 +1637,7 @@
   "suiStats": {
     "percentage": "28%",
     "totalSUIComponents": 154,
-    "totalReusedSUIComponents": 688,
+    "totalReusedSUIComponents": 689,
     "maxPossible": 2464
   }
 }

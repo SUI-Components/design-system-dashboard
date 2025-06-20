@@ -204,6 +204,7 @@ export default function StatusTable() {
               name="Action Button"
               url="https://sui-components.now.sh/workbench/atom/actionButton/"
               MAuses="both"
+              IJuses="webapp"
               CFuses="webapp"
               CNuses="webapp"
               FCuses="webapp"
