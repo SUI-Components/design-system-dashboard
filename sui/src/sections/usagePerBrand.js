@@ -8,8 +8,8 @@ export default function UsagePerBrand() {
         <ul>
           <li htmlFor="ij">
             <div>InfoJobs</div>
-            <span className="pill">52</span>
-            <progress value="52" max="74" />
+            <span className="pill">53</span>
+            <progress value="53" max="74" />
           </li>
           <li htmlFor="ma">
             <div>Milanuncios</div>

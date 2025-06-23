@@ -254,5 +254,6 @@ export const week = [
   'week 21 2025',
   'week 22 2025',
   'week 23 2025',
-  'week 24 2025'
+  'week 24 2025',
+  'week 25 2025',
 ].slice(howLongInThePastWeeks)
