@@ -196,7 +196,8 @@ const byBrandDataIJ = [
   52 /* week 22 2025 */,
   52 /* week 23 2025 */,
   52 /* week 24 2025 */,
-  53 /* week 25 2025 */
+  53 /* week 25 2025 */,
+  53 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -396,7 +397,8 @@ const byBrandDataMA = [
   59 /* week 22 2025 */,
   59 /* week 23 2025 */,
   59 /* week 24 2025 */,
-  59 /* week 25 2025 */
+  59 /* week 25 2025 */,
+  59 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -596,7 +598,8 @@ const byBrandDataFC = [
   58 /* week 22 2025 */,
   58 /* week 23 2025 */,
   58 /* week 24 2025 */,
-  58 /* week 25 2025 */
+  58 /* week 25 2025 */,
+  58 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -796,7 +799,8 @@ const byBrandDataOT = [
   57 /* week 22 2025 */,
   57 /* week 23 2025 */,
   57 /* week 24 2025 */,
-  57 /* week 25 2025 */
+  57 /* week 25 2025 */,
+  57 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -996,7 +1000,8 @@ const byBrandDataCN = [
   69 /* week 22 2025 */,
   69 /* week 23 2025 */,
   69 /* week 24 2025 */,
-  69 /* week 25 2025 */
+  69 /* week 25 2025 */,
+  69 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -1195,7 +1200,8 @@ const byBrandDataCF = [
   63 /* week 21 2025 */,
   63 /* week 22 2025 */,
   63 /* week 23 2025 */,
-  63 /* week 24 2025 */
+  63 /* week 24 2025 */,
+  63 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -1577,7 +1583,8 @@ const byBrandDataEP = [
   39 /* week 22 2025 */,
   39 /* week 23 2025 */,
   39 /* week 24 2025 */,
-  39 /* week 25 2025 */
+  39 /* week 25 2025 */,
+  39 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -1777,7 +1784,8 @@ const byBrandDataHB = [
   32 /* week 22 2025 */,
   32 /* week 23 2025 */,
   32 /* week 24 2025 */,
-  32 /* week 25 2025 */
+  32 /* week 25 2025 */,
+  32 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
@@ -2337,7 +2345,8 @@ const byBrandDataADIT = [
   30 /* week 22 2025 */,
   30 /* week 23 2025 */,
   30 /* week 24 2025 */,
-  30 /* week 25 2025 */
+  30 /* week 25 2025 */,
+  30 /* week 26 2025 */
 ].slice(howLongInThePastWeeks)
 //
 //
