@@ -42,7 +42,7 @@ export default function ChartsSection() {
             Tests Coverage
             <ul className="legends">
               <li className="blue">Branches</li>
-              <li className="white">Target for Q4 2022: 63%</li>
+              <li className="white">Target for Q3 2025: 63%</li>
             </ul>
           </div>
         </h3>
